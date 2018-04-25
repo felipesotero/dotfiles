@@ -1,0 +1,7 @@
+{
+// This option changes the display of the "Show Conflict Files" functionality"
+// true: Show only the filesnames ("src/main.js" becomes "main.js")
+// false: Show relative path (from the root of the repository)
+// By default Git Conflict Resolver only shows the filename
+"show_only_filename": true
+}

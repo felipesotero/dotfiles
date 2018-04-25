@@ -1,0 +1,7 @@
+{
+    "commands": {
+        "~/dev/zurich/frontend": [
+            "touch ~/dev/zurich/frontend/README.md"
+        ]
+    }
+}

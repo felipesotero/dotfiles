@@ -1,0 +1,207 @@
+{
+	"user":
+	{
+		"debug": true,
+		"delay": 0.25,
+		"error_color": "D02000",
+		"gutter_theme": "Packages/Boxy Theme/extras/SublimeLinter/Boxy.gutter-theme",
+		"gutter_theme_excludes":
+		[
+		],
+		"lint_mode": "background",
+		"linters":
+		{
+			"annotations":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"errors":
+				[
+					"FIXME",
+					"ERROR"
+				],
+				"excludes":
+				[
+				],
+				"warnings":
+				[
+					"NOTE",
+					"README",
+					"TODO",
+					"XXX",
+					"@todo"
+				]
+			},
+			"eslint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+					"**/node_modules/**",
+					"**/vendor/**",
+					"**/dist/**",
+					"**/tmp/**"
+				]
+			},
+			"htmltidy":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
+			"jshint":
+			{
+				"@disable": true,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
+			"json":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				],
+				"strict": true
+			},
+			"pep8":
+			{
+				"@disable": true,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				],
+				"ignore": "E501,C0301,W0142,W0402,R0201,E1101,E1102,C0103,R0901,R0903,R0904,C1001,W0223,W0232,W0201,E1103,R0801,C0111",
+				"max-line-length": 120,
+				"select": ""
+			},
+			"phpcs":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				],
+				"standard": "PSR2"
+			},
+			"phpmd":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				],
+				"rulesets": "cleancode,codesize,controversial,design,naming,unusedcode"
+			},
+			"pydocstyle":
+			{
+				"@disable": true,
+				"add-ignore": "",
+				"add-select": "",
+				"args":
+				[
+				],
+				"config": "",
+				"convention": "",
+				"excludes":
+				[
+				],
+				"ignore": "",
+				"ignore-decorators": "",
+				"select": ""
+			},
+			"pylint":
+			{
+				"@disable": true,
+				"args":
+				[
+					"--max-line-length=120"
+				],
+				"disable": "R0903,W0512",
+				"enable": "",
+				"excludes":
+				[
+				],
+				"paths":
+				[
+				],
+				"rcfile": "",
+				"show-codes": true
+			}
+		},
+		"mark_style": "solid underline",
+		"no_column_highlights_line": false,
+		"passive_warnings": false,
+		"paths":
+		{
+			"linux":
+			[
+			],
+			"osx":
+			[
+				"/Users/luizsotero/.nvm/versions/node/v7.2.1/bin"
+			],
+			"windows":
+			[
+			]
+		},
+		"python_paths":
+		{
+			"linux":
+			[
+			],
+			"osx":
+			[
+			],
+			"windows":
+			[
+			]
+		},
+		"rc_search_limit": 3,
+		"shell_timeout": 10,
+		"show_errors_on_save": false,
+		"show_marks_in_minimap": true,
+		"syntax_map":
+		{
+			"html (django)": "html",
+			"html (rails)": "html",
+			"html 5": "html",
+			"javascript (babel)": "javascript",
+			"javascript.dom": "javascript",
+			"magicpython": "python",
+			"php": "html",
+			"python django": "python",
+			"pythonimproved": "python"
+		},
+		"tooltip_fontsize": "1rem",
+		"tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
+		"tooltip_theme_excludes":
+		[
+		],
+		"tooltips": false,
+		"use_current_shell_path": false,
+		"warning_color": "DDB700",
+		"wrap_find": true
+	}
+}

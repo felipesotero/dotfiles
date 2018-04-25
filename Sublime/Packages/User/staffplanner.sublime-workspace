@@ -1,0 +1,1834 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"number",
+				"number_of_routes_max_distance"
+			],
+			[
+				"shor",
+				"shortest_route"
+			],
+			[
+				"nubmer",
+				"number_of_trips_max_stops"
+			],
+			[
+				"shortest",
+				"shortest_route	(trains.py)"
+			],
+			[
+				"commuter",
+				"commuterRailroad"
+			],
+			[
+				"direct",
+				"direct_path_distance	(graph.py)"
+			],
+			[
+				"Ki",
+				"KiwilandCommuterRailroad	(trains.py)"
+			],
+			[
+				"isResour",
+				"isResourceForLoggedInUser"
+			],
+			[
+				"onboardConversion",
+				"onboardConversionTableRows"
+			],
+			[
+				"hiring",
+				"hiringStatus"
+			],
+			[
+				"onboardin",
+				"onboardingUser"
+			],
+			[
+				"selected",
+				"selectedResource"
+			],
+			[
+				"isRow",
+				"isRowSelected"
+			],
+			[
+				"onb",
+				"onboardModalTitle"
+			],
+			[
+				"onboar",
+				"onboardingUser"
+			],
+			[
+				"have",
+				"haveResourceSelected"
+			],
+			[
+				"open",
+				"openAsksRows"
+			],
+			[
+				"className",
+				"classNameBindings	(modal_dialog.js)"
+			],
+			[
+				"res",
+				"resourceProjects"
+			],
+			[
+				"resourceProjects",
+				"resourceProjectsNames	(resource.js)"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"Onboar",
+				"OnboardModalController"
+			],
+			[
+				"h3",
+				"h3	Tag"
+			],
+			[
+				"isEd",
+				"isEditingItem"
+			],
+			[
+				"trim",
+				"trimValueOnChange"
+			],
+			[
+				"hirin",
+				"hiringStatusLabel"
+			],
+			[
+				"last-updated__info",
+				"small.last-updated__info"
+			],
+			[
+				"disa",
+				"disabledReplacingUserName"
+			],
+			[
+				"created",
+				"createdProjectAccess"
+			],
+			[
+				"view",
+				"viewAccessEntries"
+			],
+			[
+				"trackItem",
+				"trackItemEdited"
+			],
+			[
+				"last",
+				"lastPromise"
+			],
+			[
+				"root",
+				"root	(app.jsx)"
+			],
+			[
+				"crea",
+				"createClass"
+			],
+			[
+				"React",
+				"React"
+			],
+			[
+				"c",
+				"createClass"
+			],
+			[
+				"reac",
+				"react/15	(index.html)"
+			],
+			[
+				"sci",
+				"script	Tag"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"cannot",
+				"cannotTransition"
+			],
+			[
+				"parent",
+				"parentProjects"
+			],
+			[
+				"ignore",
+				"ignoreDataLoss"
+			],
+			[
+				"extract",
+				"extractTargetRoute"
+			],
+			[
+				"COOKIE_SHOPPING_CART_",
+				"COOKIE_SHOPPING_CART_TOTAL_PRICE"
+			],
+			[
+				"COOKIE",
+				"COOKIE_SHOPPING_CART_KEY"
+			],
+			[
+				"COOKIE_SHOPPING_CART",
+				"COOKIE_SHOPPING_CART_TOTAL_PRICE"
+			],
+			[
+				"isDe",
+				"isDecemberFirst"
+			],
+			[
+				"timerCheckout",
+				"timerCheckoutVerificationAndHandler"
+			],
+			[
+				"timerFreight",
+				"timerFreightAttempts"
+			],
+			[
+				"timerLogin",
+				"timerLoginInfoAttempts"
+			],
+			[
+				"timerR",
+				"timerRegisterInputsAttempts"
+			],
+			[
+				"timerLoginInp",
+				"timerLoginInputsAttempts"
+			],
+			[
+				"_EN",
+				"_ENVIOU_DEBUG"
+			],
+			[
+				"_ENVIOU",
+				"_ENVIOU_LIFE"
+			],
+			[
+				"SHOPPING",
+				"SHOPPING_CART_KEY"
+			],
+			[
+				"COOKIE_PRODUCT",
+				"COOKIE_PRODUCT_IMAGE_URL_KEY"
+			],
+			[
+				"getImageUrl",
+				"getImageUrlRadical"
+			],
+			[
+				"COOKIE_PRODUCT_",
+				"COOKIE_PRODUCT_IMAGE_RADICAL_KEY"
+			],
+			[
+				"COOKIE_PRODUC",
+				"COOKIE_PRODUCT_URL_KEY"
+			],
+			[
+				"PRODUCT",
+				"PRODUCT_IMAGE_RADICAL_KEY"
+			],
+			[
+				"href",
+				"hrefATag"
+			],
+			[
+				"PRODUCT_IMAGE",
+				"PRODUCT_IMAGE_RADICAL_KEY"
+			],
+			[
+				"response",
+				"responseText"
+			],
+			[
+				"expected",
+				"expectedHeadcount"
+			],
+			[
+				"register",
+				"registerDrillDown"
+			],
+			[
+				"di",
+				"diActionTracker"
+			],
+			[
+				"breadcrum",
+				"breadcrumbSelected"
+			],
+			[
+				"breadc",
+				"breadcrumbView"
+			],
+			[
+				"bread",
+				"breadcrumbSelected	(resources.hbs)"
+			],
+			[
+				"update",
+				"updateOrgInterval"
+			],
+			[
+				"manag",
+				"managerIdIntent"
+			],
+			[
+				"diA",
+				"diAuthentication"
+			],
+			[
+				"select",
+				"selectBreadcrumb	(breadcrumbs.js)"
+			],
+			[
+				"pus",
+				"pushPayload"
+			],
+			[
+				"manager",
+				"managerId"
+			],
+			[
+				"managerI",
+				"managerIdIntent	(transition-manager.js)"
+			],
+			[
+				"managerId",
+				"managerIdIntent"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"avai",
+				"available"
+			],
+			[
+				"to",
+				"to_address	statement"
+			],
+			[
+				"from",
+				"from_address	statement"
+			],
+			[
+				"availa",
+				"availability_soup"
+			],
+			[
+				"country_form_response",
+				"country_form_response_url"
+			],
+			[
+				"countr_form_re",
+				"country_form_response_url"
+			],
+			[
+				"fill_",
+				"fill_country_form_and_get_availability_form"
+			],
+			[
+				"form_soup",
+				"form_soup_brazil"
+			],
+			[
+				"calen",
+				"calendarYearActionFactoryDispatcher	(deadline.js)"
+			],
+			[
+				"PERIOD",
+				"PERIOD_FORMAT	(export.js)"
+			],
+			[
+				"calendar",
+				"calendarActionFactory	(action-tracker.js)"
+			],
+			[
+				"onDatestepper",
+				"onDatestepperNext	(deadline.hbs)"
+			],
+			[
+				"displ",
+				"displayedDate"
+			],
+			[
+				"LIFE_",
+				"LIFE_ASSOCIATE_ID_AND_EMAIL"
+			],
+			[
+				"LIFE",
+				"LIFE_TTL"
+			],
+			[
+				"SHOPP",
+				"SHOPPER_EMAIL_KEY"
+			],
+			[
+				"EMAIL",
+				"EMAIL_ROOTKEY	(ca-lifemail.js)"
+			],
+			[
+				"picture",
+				"pictureCache"
+			],
+			[
+				"menu",
+				"menuMaxHeight"
+			],
+			[
+				"current",
+				"currentLoggedInUserRoles"
+			],
+			[
+				"currentRo",
+				"currentRoleView"
+			],
+			[
+				"convert",
+				"convertRealCurrencyToNumber"
+			],
+			[
+				"shopping",
+				"shoppingCartUrls"
+			],
+			[
+				"jQuery",
+				"jQueryEnviou"
+			],
+			[
+				"freigh",
+				"freightField"
+			],
+			[
+				"should",
+				"shouldShowHelp"
+			],
+			[
+				"fina",
+				"financeAdminDri"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"span",
+				"span	Tag"
+			],
+			[
+				"toggle",
+				"toggleYearView"
+			],
+			[
+				"isOp",
+				"isOpeningExportModal"
+			],
+			[
+				"is",
+				"isOpeningExportModal"
+			],
+			[
+				"changed",
+				"changedResources"
+			],
+			[
+				"head",
+				"headcountDRI"
+			],
+			[
+				"headcountDRI",
+				"headcountDRI"
+			],
+			[
+				"push",
+				"pushObject	(settings-modal.js)"
+			],
+			[
+				"equivalent",
+				"equivalentDate"
+			],
+			[
+				"date",
+				"dateTemp"
+			],
+			[
+				"forma",
+				"formattedPeriod"
+			],
+			[
+				"modal",
+				"modalId"
+			],
+			[
+				"reg",
+				"registerModal"
+			],
+			[
+				"Modal",
+				"ModalManager"
+			],
+			[
+				"saving",
+				"savingStatusTimer"
+			],
+			[
+				"inputt",
+				"inputt	input - text"
+			],
+			[
+				"selectedRo",
+				"selectedRoleView	(selected.js)"
+			],
+			[
+				"saveStat",
+				"saveStatusText	(headcount-dri.js)"
+			],
+			[
+				"resources",
+				"resourcesExpectedHeadcountTotalByPeriod"
+			],
+			[
+				"pro",
+				"proxyToPerson"
+			],
+			[
+				"isCc",
+				"isCcChoosen	(proxy.js)"
+			],
+			[
+				"la",
+				"labelString"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/JSHint/JSHint.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/JSHint/JSHint.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 131.0,
+		"last_filter": "git log",
+		"selected_items":
+		[
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"gitlog",
+				"Git: Log Current File"
+			],
+			[
+				"git histo",
+				"Git: Commit history"
+			],
+			[
+				"git hi",
+				"Github: History"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"git",
+				"Github: Blame"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"gitblame",
+				"Git: Blame"
+			],
+			[
+				"git lame",
+				"Git: Blame"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git resolve",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"git conf",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"git conflic",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"diff",
+				"Diff View: Review last diff"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"google",
+				"Google Spell Check"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"git show",
+				"Git: Show Current File"
+			],
+			[
+				"git hist",
+				"Git: Commit history"
+			],
+			[
+				"git history",
+				"Github: History"
+			],
+			[
+				"gitbl",
+				"Git: Blame"
+			],
+			[
+				"git host",
+				"Git: Commit history"
+			],
+			[
+				"git compare",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"git diff",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"file di",
+				"FileDiffs: Menu"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git confli",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"conflict",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"git resolv",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"git keep",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"git resol",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"add r",
+				"Package Control: Add Repository"
+			],
+			[
+				"git agai",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"git compar",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"git res",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"intel",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"git commit",
+				"Git: Commit history"
+			],
+			[
+				"git grap",
+				"Git: Graph All"
+			],
+			[
+				"git graph",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"jshin",
+				"JSHint"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 496.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/luizsotero/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/luizsotero/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/luizsotero/dev/bhave/vagrant/ansible/handlers/nginx.yml",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/table/styles/_main.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/tooltip/views/tooltip_target.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/table/styles/_main.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/targeted-overlay/views/targeted_overlay_base.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/tooltip/views/tooltip_target.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/targeted-overlay/views/targeted_overlay_base.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/targeted-overlay/views/dismissible_targeted_overlay_base.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/table/views/table.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/table/views/table.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/pill/styles/_main.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/pill/styles/_main.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/table/templates/table.hbs",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/table/templates/table.hbs",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/notification/styles/_main.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/notification/styles/_main.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/nav-horizontal/styles/_main.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/nav-horizontal/styles/_main.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/menu-autocomplete/views/menu_autocomplete_target.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/menu-autocomplete/views/menu_autocomplete_target.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-token/views/input_token.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-token/views/input_token.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-textarea/styles/_main.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-textarea/styles/_main.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-textarea/templates/input_textarea.hbs",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-textarea/templates/input_textarea.hbs",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-textarea/views/input_textarea.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-textarea/views/input_textarea.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-textarea/views/textarea.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-textarea/views/textarea.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-text/views/input_text.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-text/views/input_text.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-select/templates/select.hbs",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-select/templates/select.hbs",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-personpicker/utils/filtered_store.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-personpicker/utils/filtered_store.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-personpicker/styles/_main.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-personpicker/styles/_main.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-personpicker/views/input_personpicker.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-personpicker/views/input_personpicker.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-datepicker/views/calendar_year_grid.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-datepicker/styles/_calendar_year_grid.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-datepicker/styles/_calendar_year_grid.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-datepicker/views/datepicker.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-datepicker/styles/_calendar_month_grid.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-datepicker/styles/_calendar_month_grid.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-datepicker/styles/_calendar.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-datepicker/styles/_calendar.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-datepicker/views/datepicker.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-datepicker/views/date_stepper.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-datepicker/views/date_stepper.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-datepicker/views/calendar_year_grid.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-datepicker/views/calendar_month_grid.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-datepicker/views/calendar_month_grid.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/input-datepicker/views/calendar.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/input-datepicker/views/calendar.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/controllers/user/alerts.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/components/editable-table/template.hbs",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/styles/alerts/_content.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/templates/user/alerts.hbs",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/components/editable-table/cells/header.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/button/styles/_main.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/button/templates/button.hbs",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/components/editable-table/component.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/routes/user/reports/project-plan.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/package.json",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/styles/app.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/button/views/button.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/core/styles/_utility.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/avatar/templates/avatar.hbs",
+		"/Users/luizsotero/dev/staffplanner/.git/COMMIT_EDITMSG",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/templates/components/editable-table/cells/header.hbs",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/templates/partials/project-access.hbs",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/templates/user/projects/create.hbs",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/controllers/user/projects/project/detail.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/styles/_content.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/models/resource.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/controllers/user/staff/resources/resource/detail.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/styles/_inline-input.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/controllers/user/staff/resources/create.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/styles/project/_content.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/services/authentication.js",
+		"/Users/luizsotero/dev/tw/.git/COMMIT_EDITMSG",
+		"/Users/luizsotero/dev/tw/tests/__init__.py",
+		"/Users/luizsotero/dev/tw/trains/__init__.py",
+		"/Users/luizsotero/dev/tw/.git/rebase-merge/git-rebase-todo",
+		"/Users/luizsotero/dev/tw/.gitignore",
+		"/Users/luizsotero/dev/tw/requirements.txt",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/avatar/package.json",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/avatar/styles/_main.scss",
+		"/Users/luizsotero/dev/studies/ctci/.git/COMMIT_EDITMSG",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/routes/user/staff/resources/resource.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/routes/user/staff/resources/resource/detail.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/.ember-cli",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/controllers/user/staff/resources.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/templates/user/staff/resources/resource/detail.hbs",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/styles/resource/_content.scss",
+		"/Users/luizsotero/dev/staffplanner/.git/rebase-merge/git-rebase-todo",
+		"/Users/luizsotero/dev/staffplanner/.git/MERGE_MSG",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/routes/user/staff/resources.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/mixins/controllers/resource-common.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/services/notification.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/notification/services/notification.js",
+		"/Users/luizsotero/dev/enviou/package.json",
+		"/Users/luizsotero/dev/enviou/dist/public/js/ca-vtex.dist.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/controllers/user/staff/resources/resource.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/routes/user/alerts.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/controllers/user/reports/project-plan/project/allocations.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/utils/constants/user.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/utils/mixins/model-searcher.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/mixins/routes/project-access.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/templates/components/resource-cell.hbs",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/components/resource-cell.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/components/project-access-invited-on-cell.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/mixins/controllers/project-access-table.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/styles/resource/_allocation.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/styles/_utility.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/components/timestamp-info/component.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/initializers/dependency-injection.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/utils/date-time.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/mui_components/table/views/cell.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/modal/views/modal_dialog.js",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/components/last-update-info/template.hbs",
+		"/Users/luizsotero/dev/staffplanner/frontend/app/templates/components/timestamp-info-cell.hbs",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/modal/styles/_main.scss",
+		"/Users/luizsotero/dev/staffplanner/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/modal/utils/modal_manager.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/luizsotero/dev/bhave",
+			"/Users/luizsotero/dev/staffplanner/frontend/app",
+			"/Users/luizsotero/dev/staffplanner/frontend/app, *.scss",
+			"/Users/luizsotero/dev/staffplanner/frontend/app",
+			"/Users/luizsotero/dev/staffplanner/frontend/mui_components/table",
+			"/Users/luizsotero/dev/staffplanner/frontend/app, -*.min.js, -*.json",
+			"/Users/luizsotero/dev/staffplanner/frontend/node_modules, -*.min.js, -*.json",
+			"/Users/luizsotero/dev/staffplanner/frontend/app, -*.min.js, -*.json",
+			"/Users/luizsotero/dev/staffplanner/frontend/mui_components, -*.min.js, -*.json",
+			"/Users/luizsotero/dev/staffplanner/frontend/app, -*.min.js, -*.json",
+			"/Users/luizsotero/dev/staffplanner/frontend, -*.min.js, -*.json",
+			"/Users/luizsotero/dev/staffplanner/frontend, -*.min.js",
+			"/Users/luizsotero/dev/staffplanner/frontend",
+			"/Users/luizsotero/dev/staffplanner/frontend/app",
+			"/Users/luizsotero/dev/staffplanner/frontend/node_modules",
+			"/Users/luizsotero/dev/staffplanner/frontend/node_modules, *.js, *.hbs",
+			"/Users/luizsotero/dev/staffplanner/frontend/node_modules, */node_modules/*",
+			"/Users/luizsotero/dev/staffplanner/frontend/mui_components",
+			"/Users/luizsotero/dev/staffplanner/frontend/app/",
+			"/Users/luizsotero/dev/staffplanner/frontend/app",
+			"/Users/luizsotero/dev/staffplanner/frontend/node_modules",
+			"/Users/luizsotero/dev/staffplanner/frontend/app",
+			"/Users/luizsotero/dev/staffplanner/frontend/",
+			"/Users/luizsotero/dev/staffplanner/frontend/, -test.js, -*/node_modules/*",
+			"/Users/luizsotero/dev/staffplanner/frontend, -test.js, -*/node_modules/*",
+			"/Users/luizsotero/dev/staffplanner/frontend/mui_components, -test.js, -*/node_modules/*",
+			"/Users/luizsotero/dev/staffplanner/frontend/mui_components, -test.js",
+			"/Users/luizsotero/dev/staffplanner/frontend/mui_components,",
+			"/Users/luizsotero/dev/staffplanner/frontend/mui_components, -*/node_modules/*",
+			"/Users/luizsotero/dev/staffplanner/frontend/mui_components",
+			"/Users/luizsotero/dev/staffplanner/frontend",
+			"/Users/luizsotero/dev/staffplanner/frontend/app",
+			"/Users/luizsotero/dev/staffplanner/frontend/",
+			"/Users/luizsotero/dev/staffplanner/frontend/mui_components",
+			"/Users/luizsotero/dev/staffplanner/frontend/app",
+			"/Users/luizsotero/dev/staffplanner/frontend/",
+			"/Users/luizsotero/dev/staffplanner/frontend/app",
+			"/Users/luizsotero/dev/staffplanner/frontend/",
+			"/Users/luizsotero/dev/staffplanner/frontend/mui_components",
+			"/Users/luizsotero/dev/staffplanner/frontend/app/mui_components",
+			"/Users/luizsotero/dev/staffplanner/frontend/app",
+			"/Users/luizsotero/dev/staffplanner/frontend/node_modules",
+			"/Users/luizsotero/dev/staffplanner/frontend",
+			"/Users/luizsotero/dev/staffplanner/frontend/app",
+			"/Users/luizsotero/dev/staffplanner/frontend",
+			"/Users/luizsotero/dev/staffplanner/frontend, *.scss",
+			"/Users/luizsotero/dev/staffplanner/frontend",
+			"/Users/luizsotero/dev/staffplanner",
+			"/Users/luizsotero/dev/staffplanner/frontend",
+			"/Users/luizsotero/dev/staffplanner/",
+			"/Users/luizsotero/dev/staffplanner/frontend/",
+			"/Users/luizsotero/dev/staffplanner/frontend/mui_components",
+			"/Users/luizsotero/dev/staffplanner/frontend",
+			"/Users/luizsotero/dev/staffplanner/",
+			"/Users/luizsotero/dev/staffplanner/frontend",
+			"/Users/luizsotero/dev/staffplanner/frontend/app",
+			"/Users/luizsotero/dev/staffplanner/frontend/",
+			"/Users/luizsotero/dev/staffplanner/frontend/app",
+			"/Users/luizsotero/dev/staffplanner/frontend/app, *.scss",
+			"/Users/luizsotero/dev/staffplanner/frontend/app",
+			"/Users/luizsotero/dev/staffplanner/frontend/",
+			"/Users/luizsotero/dev/staffplanner/frontend",
+			"/Users/luizsotero/dev/staffplanner/frontend/app",
+			"/Users/luizsotero/dev/enviou/node_modules/jquery/src",
+			"/Users/luizsotero/dev/enviou/node_modules/jquery",
+			"/Users/luizsotero/dev/zurich/frontend/app, *.scss",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/app, *.scss",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/node_modules",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components/input-datepicker/",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components/",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components/input-datepicker",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components/menu-autocomplete/views",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/.git",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components",
+			"/Users/luizsotero/dev/zurich/frontend/mui-components",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components",
+			"/Users/luizsotero/dev/zurich/frontend/mui-components",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components",
+			"/Users/luizsotero/dev/zurich/frontend/app, *.scss",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components/",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components/targeted-overlay/views",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/app, *.scss",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/app, *.hbs",
+			"/Users/luizsotero/dev/zurich/frontend/app, *.scss",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/node_modules",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components/accordion",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/app,/Users/luizsotero/dev/zurich/frontend/mui_components",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/node_modules",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components",
+			"/Users/luizsotero/dev/zurich/frontend/node_modules",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components/input-personpicker/views",
+			"/Users/luizsotero/dev/zurich/frontend/app",
+			"/Users/luizsotero/dev/zurich/frontend/mui_components/input-personpicker",
+			"/Users/luizsotero/dev/zurich/frontend/node_modules"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nginx-handlers",
+			"padding: 0",
+			"_convertImportedData",
+			"valueBuffer = this.get('nullable') && Em.isEmpty(valueBuffer) ? null : valueBuffer",
+			"valueBuffer = this.get('nullable')",
+			"viewutils",
+			"allowpastin",
+			"-",
+			"isSort",
+			"ta",
+			"omSort: true,\n            headerC",
+			"HeaderCell",
+			"alertTableColumns",
+			"HeaderCell",
+			"replaceResource",
+			"fully",
+			"no-style",
+			".inline-input:hover",
+			"input",
+			".input-text",
+			"replaceResource",
+			"updateLoggedInUser",
+			"saveWithReplacing",
+			"saveWithReplacing\nsaveWithReplacing",
+			"saveWithReplacing",
+			"distance_of_route",
+			"origin:",
+			"origin",
+			"town",
+			"is_origin_scanned",
+			"scanned_origin",
+			"routes",
+			"stops",
+			"direct_path_distance",
+			"visits",
+			"town",
+			"max_visits",
+			"max_stops",
+			"exact_stops",
+			"new_routes",
+			"name",
+			"town",
+			"closest_town",
+			"routes",
+			"direct_path_distance",
+			"town",
+			"routes",
+			"shortest_route",
+			"routes_between_towns_max_stops",
+			"routes",
+			"direct_route_distance",
+			"self.commuter",
+			"add_route",
+			"Town",
+			"next_town",
+			"town",
+			"_routes_between_nodes",
+			"towns",
+			"shortest_route",
+			"routes_between_towns_max_distance",
+			"routes_between_towns_exact_stops",
+			"routes_between_towns_max_stops",
+			"routes",
+			"name",
+			"\"\"\"",
+			"response",
+			"routes_between_towns_max_distance",
+			"direct_route_distance",
+			"test_direct_route_distance_no_towns",
+			"replaceResource",
+			"z-index",
+			"inline-input--noneditable",
+			"input--disabled",
+			"input-disabled",
+			"path",
+			"clip",
+			"clip-path",
+			"askHiringStatusOption",
+			"askHiringStatus",
+			"_saveResource",
+			"isDisabled",
+			"_saveResource",
+			"resource",
+			"resourceModel",
+			"isOpenAsk",
+			"isAskHiringStatusDisabled",
+			"content",
+			".content",
+			"scheduleSaveResource",
+			"_saveResource",
+			"model.",
+			"resourceresource",
+			"resource.content",
+			"resource.",
+			"resource:",
+			"model.",
+			"newOnboardEmployee",
+			"model.",
+			"Model.",
+			"model.",
+			"newOnboardEmployee",
+			"model.",
+			"model",
+			"saveResource",
+			"content.content",
+			"isDisabled",
+			"content",
+			"content.content",
+			",",
+			"content",
+			"isopenask",
+			"isopenAsk",
+			"true",
+			"newOnboardEmployee",
+			"model",
+			"askHiringStatusOption",
+			"_saveResource",
+			"askHiringStatusOption",
+			"hiringStatus",
+			"manager",
+			"model.content",
+			"isDirect",
+			", ",
+			"UserConstants",
+			"resourceModel",
+			"isAskHiringStatusDisable",
+			"canceled",
+			"hiringStatus"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ,",
+			" ",
+			"\"",
+			",",
+			"into: 'proxy',\noutlet: 'periodToolbar',",
+			"Accordion",
+			"accordion",
+			"AllocationEmberTableMixin",
+			"controllers/allocation-ember-table",
+			"saveStatusDoesntExist",
+			"saveStatusDontExists",
+			"function()",
+			" ",
+			"clearSelection"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"output.git":
+	{
+		"height": 580.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 27.0
+	},
+	"pinned_build_system": "Packages/Handlebars/.sublime-build",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"controllers/user/alert",
+				"frontend/app/controllers/user/alerts.js"
+			],
+			[
+				"nts/editable-table/cells/header",
+				"frontend/app/templates/components/editable-table/cells/header.hbs"
+			],
+			[
+				"able-table/cells/header",
+				"frontend/app/components/editable-table/cells/header.js"
+			],
+			[
+				"ble-table/cells/header",
+				"frontend/app/templates/components/editable-table/cells/header.hbs"
+			],
+			[
+				"stylescontent",
+				"frontend/app/styles/_content.scss"
+			],
+			[
+				"userstaffrescreate",
+				"frontend/app/controllers/user/staff/resources/create.js"
+			],
+			[
+				"detailhbs",
+				"frontend/app/templates/user/staff/resources/resource/detail.hbs"
+			],
+			[
+				"inputtext",
+				"frontend/mui_components/input-text/views/input_text.js"
+			],
+			[
+				"userstaffresresdeta",
+				"frontend/app/controllers/user/staff/resources/resource/detail.js"
+			],
+			[
+				"notification",
+				"frontend/mui_components/notification/services/notification.js"
+			],
+			[
+				"componeditabltacomponen",
+				"frontend/app/components/editable-table/component.js"
+			],
+			[
+				"contruseralert",
+				"frontend/app/controllers/user/alerts.js"
+			],
+			[
+				"controllerusestaffres",
+				"frontend/app/controllers/user/staff/resources.js"
+			],
+			[
+				"userstaffresource",
+				"frontend/app/routes/user/staff/resources.js"
+			],
+			[
+				"ns/data-loss-property-watcher",
+				"frontend/app/utils/mixins/data-loss-property-watcher.js"
+			],
+			[
+				"ils/constants/user",
+				"frontend/app/utils/constants/user.js"
+			],
+			[
+				"alerthbs",
+				"frontend/app/templates/user/alerts.hbs"
+			],
+			[
+				"alertconten",
+				"frontend/app/styles/alerts/_content.scss"
+			],
+			[
+				"routuseraler",
+				"frontend/app/routes/user/alerts.js"
+			],
+			[
+				"conuseralert",
+				"frontend/app/controllers/user/alerts.js"
+			],
+			[
+				"fronappconuseralert",
+				"frontend/app/controllers/user/alerts.js"
+			],
+			[
+				"useralert",
+				"frontend/app/templates/user/alerts.hbs"
+			],
+			[
+				"componresource",
+				"frontend/app/templates/components/resource-cell.hbs"
+			],
+			[
+				"componresourcel",
+				"frontend/app/components/resource-cell.js"
+			],
+			[
+				"modelresour",
+				"frontend/app/models/resource.js"
+			],
+			[
+				"alerhbs",
+				"frontend/app/templates/user/alerts.hbs"
+			],
+			[
+				"roualert",
+				"frontend/app/routes/user/alerts.js"
+			],
+			[
+				"utils/date-time",
+				"frontend/app/utils/date-time.js"
+			],
+			[
+				"froapprouuseralert",
+				"frontend/app/routes/user/alerts.js"
+			],
+			[
+				"pp/components/timestamp-info/component.js",
+				"frontend/app/components/timestamp-info/component.js"
+			],
+			[
+				"alerts/_content",
+				"frontend/app/styles/alerts/_content.scss"
+			],
+			[
+				"ils/mixins/tooltip-ellipsed",
+				"frontend/app/utils/mixins/tooltip-ellipsed.js"
+			],
+			[
+				"xins/tooltip-ellipsed",
+				"frontend/app/utils/mixins/tooltip-ellipsed.js"
+			],
+			[
+				"iews/focusable_overlay_base",
+				"frontend/mui_components/notification/node_modules/@monaco-ui/overlay/views/focusable_overlay_base.js"
+			],
+			[
+				"ay/views/overlay",
+				"frontend/mui_components/notification/node_modules/@monaco-ui/overlay/views/overlay.js"
+			],
+			[
+				"modal",
+				"frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/modal/utils/modal_manager.js"
+			],
+			[
+				"alerts.",
+				"frontend/app/controllers/user/alerts.js"
+			],
+			[
+				"dependency",
+				"frontend/app/initializers/dependency-injection.js"
+			],
+			[
+				"muibutton",
+				"frontend/mui_components/table/node_modules/@monaco-ui/button/views/button.js"
+			],
+			[
+				"modelaert",
+				"frontend/app/models/alert.js"
+			],
+			[
+				"constalert",
+				"frontend/app/utils/constants/alerts.js"
+			],
+			[
+				"froapptempuserstaffresresallrang",
+				"frontend/app/templates/user/staff/resources/resource/allocation/range.hbs"
+			],
+			[
+				"report-allocation/user-cell",
+				"frontend/app/templates/components/report-allocation/user-cell.hbs"
+			],
+			[
+				"controapplication",
+				"frontend/app/controllers/application.js"
+			],
+			[
+				"aplicationjs",
+				"frontend/app/routes/application.js"
+			],
+			[
+				"pulldown",
+				"frontend/mui_components/menu-autocomplete/node_modules/@monaco-ui/menu-pulldown/node_modules/@monaco-ui/pulldown/views/pulldown.js"
+			],
+			[
+				"ews/menu_autocomplete_target",
+				"frontend/mui_components/menu-autocomplete/views/menu_autocomplete_target.js"
+			],
+			[
+				"views/input_token",
+				"frontend/mui_components/input-token/views/input_token.js"
+			],
+			[
+				"inputtoken",
+				"frontend/mui_components/input-personpicker/views/input_token.js"
+			],
+			[
+				"detail.hbs",
+				"frontend/app/templates/user/staff/resources/resource/detail.hbs"
+			],
+			[
+				"conten.scss",
+				"frontend/app/styles/_content.scss"
+			],
+			[
+				"menuoverlay.js",
+				"frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/menu-overlay/views/menu_overlay.js"
+			],
+			[
+				"menuoverlay",
+				"frontend/mui_components/nav-horizontal/node_modules/@monaco-ui/button-pulldown/node_modules/@monaco-ui/menu-pulldown/node_modules/@monaco-ui/menu-overlay/templates/menu_overlay.hbs"
+			],
+			[
+				"iews/menu_overlay",
+				"frontend/mui_components/menu-autocomplete/node_modules/@monaco-ui/menu-pulldown/node_modules/@monaco-ui/menu-overlay/views/menu_overlay.js"
+			],
+			[
+				"views/menu_pulldown",
+				"frontend/mui_components/menu-autocomplete/node_modules/@monaco-ui/menu-pulldown/views/menu_pulldown.js"
+			],
+			[
+				"views/menu_autocomplete_target",
+				"frontend/mui_components/menu-autocomplete/views/menu_autocomplete_target.js"
+			],
+			[
+				"ews/input_token",
+				"frontend/mui_components/input-token/views/input_token.js"
+			],
+			[
+				"rgeted_overlay",
+				"frontend/mui_components/input-datepicker/node_modules/@monaco-ui/pulldown/node_modules/@monaco-ui/targeted-overlay/views/targeted_overlay.js"
+			],
+			[
+				"iews/menu_pulldown",
+				"frontend/node_modules/@monaco-ui/menu-autocomplete/node_modules/@monaco-ui/menu-pulldown/views/menu_pulldown.js"
+			],
+			[
+				"muicominpudate",
+				"frontend/mui_components/input-datepicker/views/datepicker.js"
+			],
+			[
+				"prodeta",
+				"frontend/app/controllers/user/projects/project/detail.js"
+			],
+			[
+				"inputdatepicker",
+				"frontend/mui_components/input-datepicker/views/datepicker.js"
+			],
+			[
+				"table/cells/milestone/date",
+				"frontend/app/templates/components/editable-table/cells/milestone/date.hbs"
+			],
+			[
+				"ents/milestone-date",
+				"frontend/app/components/milestone-date.js"
+			],
+			[
+				"onents/milestone-date",
+				"frontend/app/components/milestone-date.js"
+			],
+			[
+				".embercli",
+				"frontend/.ember-cli"
+			],
+			[
+				"_column",
+				"frontend/app/styles/_columns.scss"
+			],
+			[
+				"nput/views/input",
+				"frontend/mui_components/input/views/input.js"
+			],
+			[
+				"",
+				"frontend/app/templates/user/projects/project/detail.hbs"
+			],
+			[
+				"inputtextarea",
+				"frontend/mui_components/input-textarea/views/input_textarea.js"
+			],
+			[
+				"detai.hbs",
+				"frontend/app/templates/user/projects/project/detail.hbs"
+			],
+			[
+				".emberc",
+				"frontend/.ember-cli"
+			],
+			[
+				"applciation",
+				"frontend/app/controllers/application.js"
+			],
+			[
+				"ken/views/input_token",
+				"frontend/mui_components/input-token/views/input_token.js"
+			],
+			[
+				"input/views/input",
+				"frontend/mui_components/input/views/input.js"
+			],
+			[
+				"tils/person_placeholder",
+				"frontend/mui_components/input-personpicker/utils/person_placeholder.js"
+			],
+			[
+				"ews/targeted_overlay_base",
+				"frontend/mui_components/input-datepicker/node_modules/@monaco-ui/pulldown/node_modules/@monaco-ui/targeted-overlay/views/targeted_overlay_base.js"
+			],
+			[
+				"muipulldown",
+				"frontend/mui_components/input-datepicker/node_modules/@monaco-ui/pulldown/views/pulldown.js"
+			],
+			[
+				"overlay/menu-overlayhbs",
+				"frontend/mui_components/menu-autocomplete/node_modules/@monaco-ui/menu-pulldown/node_modules/@monaco-ui/menu-overlay/node_modules/@monaco-ui/targeted-overlay/templates/targeted_overlay.hbs"
+			],
+			[
+				"erlay/views/overlay",
+				"frontend/mui_components/notification/node_modules/@monaco-ui/overlay/views/overlay.js"
+			],
+			[
+				"verlay/views/targeted_overlay",
+				"frontend/mui_components/input-datepicker/node_modules/@monaco-ui/pulldown/node_modules/@monaco-ui/targeted-overlay/views/targeted_overlay.js"
+			],
+			[
+				"nu_overlay/views/menu_overlay",
+				"frontend/mui_components/menu-autocomplete/node_modules/@monaco-ui/menu-pulldown/node_modules/@monaco-ui/menu-overlay/views/menu_overlay.js"
+			],
+			[
+				"menuautocomplete",
+				"frontend/mui_components/menu-autocomplete/views/menu_autocomplete.js"
+			],
+			[
+				"plete/views/menu_autocomplete_target",
+				"frontend/mui_components/menu-autocomplete/views/menu_autocomplete_target.js"
+			],
+			[
+				"_token/views/input_token",
+				"frontend/mui_components/input-token/views/input_token.js"
+			],
+			[
+				"put/views/input",
+				"frontend/mui_components/input/views/input.js"
+			],
+			[
+				".gito",
+				".gitignore"
+			],
+			[
+				".ember",
+				"frontend/.ember-cli"
+			],
+			[
+				"monacotable",
+				"frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/table/views/table.js"
+			],
+			[
+				"components/resource-allocation-project-cell",
+				"frontend/app/components/resource-allocation-project-cell.js"
+			],
+			[
+				"report-allocation/month-cell",
+				"frontend/app/templates/components/report-allocation/month-cell.hbs"
+			],
+			[
+				"reportallocationmonthcell",
+				"frontend/app/components/report-allocation-month-cell.js"
+			],
+			[
+				"utilcolumn",
+				"frontend/mui_components/table/utils/column.js"
+			],
+			[
+				"ies/year-month-column-proxy",
+				"frontend/app/proxies/year-month-column-proxy.js"
+			],
+			[
+				"allocaheadc",
+				"frontend/app/mixins/controllers/allocation-headcount-table.js"
+			],
+			[
+				"lastupdateinfo",
+				"frontend/app/styles/components/_last-update-info.scss"
+			],
+			[
+				"ils/property_transition_handler",
+				"frontend/mui_components/avatar/node_modules/@monaco-ui/core/utils/property_transition_handler.js"
+			],
+			[
+				"targetedoverbase",
+				"frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/targeted-overlay/views/targeted_overlay_base.js"
+			],
+			[
+				"customuser",
+				"frontend/app/utils/computed/custom-user-store.js"
+			],
+			[
+				"iews/targeted_overlay_base",
+				"frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/targeted-overlay/views/targeted_overlay_base.js"
+			],
+			[
+				"e/views/port",
+				"frontend/mui_components/avatar/node_modules/@monaco-ui/core/views/port.js"
+			],
+			[
+				"targetedoverlay",
+				"frontend/mui_components/input-datepicker/node_modules/@monaco-ui/pulldown/node_modules/@monaco-ui/targeted-overlay/views/targeted_overlay.js"
+			],
+			[
+				"tooltiptarget",
+				"frontend/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/tooltip/views/tooltip_target.js"
+			],
+			[
+				"targetedover",
+				"frontend/mui_components/input-datepicker/node_modules/@monaco-ui/pulldown/node_modules/@monaco-ui/targeted-overlay/views/targeted_overlay_base.js"
+			],
+			[
+				"applicahbs",
+				"frontend/app/templates/application.hbs"
+			],
+			[
+				"targeteoverbase",
+				"node_modules/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/targeted-overlay/views/targeted_overlay_base.js"
+			],
+			[
+				"tooltip",
+				"frontend/app/utils/mixins/tooltip-ellipsed.js"
+			],
+			[
+				"views/tooltip_target",
+				"node_modules/node_modules/@monaco-ui/ember-cli-monaco-ui/node_modules/@monaco-ui/monaco-ui/node_modules/@monaco-ui/tooltip/views/tooltip_target.js"
+			],
+			[
+				"hiringstatus",
+				"frontend/app/utils/constants/hiring-status.js"
+			],
+			[
+				"onstants/hiring-status",
+				"frontend/app/utils/constants/hiring-status.js"
+			],
+			[
+				"lastupda",
+				"frontend/app/styles/components/_last-update-info.scss"
+			],
+			[
+				"pill",
+				"frontend/mui_components/input-personpicker/views/pill.js"
+			],
+			[
+				"tils/closure_creator",
+				"frontend/mui_components/avatar/node_modules/@monaco-ui/core/utils/closure_creator.js"
+			],
+			[
+				"inpurpersonpicker",
+				"frontend/mui_components/input-personpicker/views/input_personpicker.js"
+			],
+			[
+				"cker/views/item",
+				"frontend/mui_components/input-personpicker/views/item.js"
+			],
+			[
+				"onpicker/item",
+				"frontend/mui_components/input-personpicker/templates/item.hbs"
+			],
+			[
+				"user-card-with-",
+				"frontend/app/components/user-card-with-status/template.hbs"
+			],
+			[
+				"editabletable",
+				"frontend/app/styles/components/_editable-table.scss"
+			],
+			[
+				"editmilestones",
+				"frontend/app/styles/project/_edit-milestones.scss"
+			],
+			[
+				"_editabletable",
+				"frontend/app/styles/components/_editable-table.scss"
+			],
+			[
+				"appledirec",
+				"frontend/app/components/apple-directory-link/component.js"
+			],
+			[
+				"ixins/tooltip-ellipsed",
+				"frontend/app/utils/mixins/tooltip-ellipsed.js"
+			],
+			[
+				"last-updateinfo",
+				"frontend/app/components/last-update-info/template.hbs"
+			],
+			[
+				"compon_edita",
+				"frontend/app/styles/components/_editable-table.scss"
+			],
+			[
+				"lastupdateinf",
+				"frontend/app/components/last-update-info/template.hbs"
+			],
+			[
+				"e-table/cells/project-access/name-cell",
+				"frontend/app/templates/components/editable-table/cells/project-access/name-cell.hbs"
+			],
+			[
+				"ts/project-access-name-cell",
+				"frontend/app/components/project-access-name-cell.js"
+			],
+			[
+				"ollers/project-access-table",
+				"frontend/app/mixins/controllers/project-access-table.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 823.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

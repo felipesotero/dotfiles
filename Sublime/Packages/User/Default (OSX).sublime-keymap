@@ -1,0 +1,17 @@
+[
+    { "keys": ["ctrl+tab"], "command": "next_view" },
+    { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+    { "keys": ["ctrl+]"], "command": "next_view_in_stack" },
+    { "keys": ["ctrl+["], "command": "prev_view_in_stack" },
+
+    { "keys": ["ctrl+alt+f"], "command": "find_next_conflict" },
+    { "keys": ["ctrl+alt+o"], "command": "keep", "args": { "keep": "ours" } },
+    { "keys": ["ctrl+alt+t"], "command": "keep", "args": { "keep": "theirs" } },
+    { "keys": ["ctrl+alt+a"], "command": "keep", "args": { "keep": "ancestor" } },
+    { "keys": ["ctrl+alt+c"], "command": "list_conflict_files" },
+
+    { "keys": ["ctrl+shift+s"], "command": "auto_save" },
+    { "keys": ["f2"],           "command": "side_bar_rename" },
+    { "keys": ["super+alt+g"], "command": "goto_definition" },
+    { "keys": ["f12"], "command": "reindent", "args": {"single_line": false} }
+]

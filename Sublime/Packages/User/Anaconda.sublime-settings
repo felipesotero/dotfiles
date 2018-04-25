@@ -1,0 +1,12 @@
+{
+    // Maximum line length for pep8
+    "pep8_max_line_length": 120,
+    /*
+        Set those as true if you don't want Sublime Text regular completions
+    */
+    "suppress_word_completions": false,
+    "suppress_explicit_completions": false,
+
+    "anaconda_linting": true,
+    "python_interpreter": "python2",
+}

@@ -1,0 +1,179 @@
+{
+    "debug": true,
+    "delay": 0.3,
+    "gutter_theme": "Packages/Boxy Theme/extras/SublimeLinter/Boxy.gutter-theme",
+    "lint_mode": "background",
+    "linters":
+    {
+        "annotations":
+        {
+            "disable": false,
+            "args":
+            [
+            ],
+            "errors":
+            [
+                "FIXME",
+                "ERROR"
+            ],
+            "excludes":
+            [
+            ],
+            "warnings":
+            [
+                "NOTE",
+                "README",
+                "TODO",
+                "XXX",
+                "@todo"
+            ]
+        },
+        "eslint":
+        {
+            "disable": true,
+            "args":
+            [
+            ],
+            "selector": "source.js, text.html.vue",
+            "excludes":
+            [
+                "**/node_modules/**",
+                "**/vendor/**",
+                "**/dist/**",
+                "**/tmp/**"
+            ]
+        },
+        "htmltidy":
+        {
+            "disable": false,
+            "args":
+            [
+            ],
+            "excludes":
+            [
+                "*.vue"
+            ]
+        },
+        "jshint":
+        {
+            "disable": true,
+            "args":
+            [
+            ],
+            "excludes":
+            [
+            ]
+        },
+        "json":
+        {
+            "disable": false,
+            "args":
+            [
+            ],
+            "excludes":
+            [
+            ],
+            "strict": true
+        },
+        "pep8":
+        {
+            "disable": true,
+            "args":
+            [
+            ],
+            "excludes":
+            [
+            ],
+            "ignore": "E501,C0301,W0142,W0402,R0201,E1101,E1102,C0103,R0901,R0903,R0904,C1001,W0223,W0232,W0201,E1103,R0801,C0111",
+            "max-line-length": 120,
+            "select": ""
+        },
+        "phpcs":
+        {
+            "disable": false,
+            "args":
+            [
+            ],
+            "excludes":
+            [
+                "*.vue"
+            ],
+            "standard": "PSR2"
+        },
+        "phpmd":
+        {
+            "disable": false,
+            "args":
+            [
+            ],
+            "excludes":
+            [
+            ],
+            "rulesets": "cleancode,codesize,controversial,design,naming,unusedcode"
+        },
+        "pydocstyle":
+        {
+            "disable": true,
+            "add-ignore": "",
+            "add-select": "",
+            "args":
+            [
+            ],
+            "config": "",
+            "convention": "",
+            "excludes":
+            [
+            ],
+            "ignore": "",
+            "ignore-decorators": "",
+            "select": ""
+        },
+        "pylint":
+        {
+            "disable": false,
+            "args":
+            [
+                "--max-line-length=120"
+            ],
+            "disable": "R0903,W0512",
+            "enable": "",
+            "excludes":
+            [
+            ],
+            "paths":
+            [
+            ],
+            "rcfile": "",
+            "show-codes": true
+        }
+    },
+    "no_column_highlights_line": false,
+    "paths":
+    {
+        "linux":
+        [
+        ],
+        "osx":
+        [
+            "/usr/local/bin/node"
+        ],
+        "windows":
+        [
+        ]
+    },
+    "show_marks_in_minimap": true,
+    "syntax_map":
+    {
+        "html (django)": "html",
+        "Handlebars": "gsp",
+        "html (rails)": "html",
+        "html 5": "html",
+        "javascript (babel)": "javascript",
+        "javascript.dom": "javascript",
+        "vue": "javascript",
+        "magicpython": "python",
+        "php": "html",
+        "python django": "python",
+        "pythonimproved": "python"
+    },
+}

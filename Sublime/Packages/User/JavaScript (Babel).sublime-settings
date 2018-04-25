@@ -1,0 +1,7 @@
+{
+	"extensions":
+	[
+		"jsx"
+	],
+    "color_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme"
+}

@@ -1,0 +1,5 @@
+// These settings override both User and Default settings for the Python Django syntax
+{
+    "color_scheme": "Packages/User/SublimeLinter/Monokai-Dev (SL).tmTheme",
+    "ensure_newline_at_eof_on_save": true,
+}
