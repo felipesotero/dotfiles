@@ -1,0 +1,11 @@
+[user]
+	name = Luiz Sotero
+	email = luizsotero@gmail.com
+[mergetool]
+	keepBackup = true
+[push]
+	default = matching
+[core]
+	editor = subl -w
+[status]
+	submoduleSummary = false
