@@ -98,8 +98,6 @@ alias gita='git fetch --all'
 alias gitloga="git log --graph --abbrev-commit --decorate --format=format:'%C(bold yellow)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all"
 alias gitlog="git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)'"
 alias gitl="git log --graph --oneline --decorate --all"
-# param1= param2= param3=
-alias change-commits="!f() { VAR=$1; OLD=$2; NEW=$3; shift 3; git filter-branch --env-filter \"if [[ \\\"$`echo $VAR`\\\" = '$OLD' ]]; then export $VAR='$NEW'; fi\" $@; }; f "
 # Git mispelling fallbacks
 gt() {
   git "$@"
@@ -149,7 +147,6 @@ fco() {
 wallpaper() {
     sqlite3 ~/Library/Application\ Support/Dock/desktoppicture.db "update data set value = '$1'" && killall Dock
 }
-# GIT -----------------------------------------------------------------------------------------------------------------
 
 # EXPORTS -------------------------------------------------------------------------------------------------------------
 
