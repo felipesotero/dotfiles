@@ -179,3 +179,7 @@ export PATH="$HOME/.yarn/bin:$PATH"
 export LDFLAGS="-L/usr/local/opt/openssl/lib"
 export CPPFLAGS="-I/usr/local/opt/openssl/include"
 export PKG_CONFIG_PATH="/usr/local/opt/openssl/lib/pkgconfig"
+
+#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
+export SDKMAN_DIR="/Users/luizsotero/.sdkman"
+[[ -s "/Users/luizsotero/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/luizsotero/.sdkman/bin/sdkman-init.sh"

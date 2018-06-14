@@ -32,3 +32,6 @@ if [[ -r /usr/local/bin/virtualenvwrapper.sh ]]; then
 else
     echo "WARNING: Can't find virtualenvwrapper.sh"
 fi
+#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
+export SDKMAN_DIR="/Users/luizsotero/.sdkman"
+[[ -s "/Users/luizsotero/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/luizsotero/.sdkman/bin/sdkman-init.sh"
