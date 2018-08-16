@@ -135,7 +135,6 @@
             [
                 "--max-line-length=120"
             ],
-            "disable": "R0903,W0512",
             "enable": "",
             "excludes":
             [
