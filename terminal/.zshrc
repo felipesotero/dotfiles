@@ -113,8 +113,6 @@ ij() {
   /Applications/IntelliJ\ IDEA.app/Contents/MacOS/idea $@
 }
 
-eval $(thefuck --alias)
-
 # fda - including hidden directories
 fda() {
   local dir
@@ -150,7 +148,7 @@ wallpaper() {
 
 # EXPORTS -------------------------------------------------------------------------------------------------------------
 
-export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/heroku/bin:/usr/local/sbin:/Users/luizsotero/bin:/Users/luizsotero/.composer/vendor/bin"
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/heroku/bin:/usr/local/sbin:/Users/luizsotero/bin:/Users/luizsotero/.composer/vendor/bin:/Users/luizsotero/Library/Python/2.7/bin"
 # export MANPATH="/usr/local/man:$MANPATH"# Base16 Shell
 BASE16_SHELL="$HOME/.config/base16-shell/base16-monokai.dark.sh"
 [[ -s $BASE16_SHELL ]] && source $BASE16_SHELL
@@ -163,8 +161,8 @@ export VIRTUALENVWRAPPER_VIRTUALENV_ARGS='--no-site-packages'
 export PIP_VIRTUALENV_BASE=$WORKON_HOME
 # makes pip detect an active virtualenv and install to it
 export PIP_RESPECT_VIRTUALENV=true
-if [[ -r /usr/local/bin/virtualenvwrapper.sh ]]; then
-    source /usr/local/bin/virtualenvwrapper.sh
+if [[ -r /Users/luizsotero/Library/Python/2.7/bin/virtualenvwrapper.sh ]]; then
+    source /Users/luizsotero/Library/Python/2.7/bin/virtualenvwrapper.sh
 else
     echo "WARNING: Can't find virtualenvwrapper.sh"
 fi

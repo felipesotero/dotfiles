@@ -43,7 +43,6 @@
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
-		"SublimeLinter-pep8",
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
 		"SublimeLinter-pydocstyle",

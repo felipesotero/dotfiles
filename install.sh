@@ -19,17 +19,17 @@ git_files=(
 # Install all the terminal files
 echo "Symlinking dotfiles"
 for terminal_file in "${terminal_files[@]}"; do
-    ln -s "$(pwd)/terminal/$terminal_file" "$HOME/$terminal_file"
+    ln -sf "$(pwd)/terminal/$terminal_file" "$HOME/$terminal_file"
 done
 
 # Link Sublime settings
 echo "Symlinking Sublime Packages"
-ln -s "$(pwd)/Sublime/Packages" "$HOME/Library/Application Support/Sublime Text 3/Packages"
+ln -sf "$(pwd)/Sublime/Packages" "$HOME/Library/Application Support/Sublime Text 3/"
 
 # Install sublime config
 echo "Symlinking git configuration files"
 for git_file in "${git_files[@]}"; do
-    ln -s "$(pwd)/git/$git_file" "$HOME/$git_file"
+    ln -sf "$(pwd)/git/$git_file" "$HOME/$git_file"
 done
 
 # Install brew
