@@ -16,11 +16,20 @@ git_files=(
     ".gitconfig"
 )
 
+# Check git version and install if necessary:
+git --version
+
+# Install Oh My Zosh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
 # Install all the terminal files
 echo "Symlinking dotfiles"
 for terminal_file in "${terminal_files[@]}"; do
     ln -sf "$(pwd)/terminal/$terminal_file" "$HOME/$terminal_file"
 done
+
+# Install auto suggestion
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
 # Link Sublime settings
 echo "Symlinking Sublime Packages"
