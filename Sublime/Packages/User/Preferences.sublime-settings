@@ -28,8 +28,14 @@
 		".hg",
 		"CVS",
 		"*.min.js",
-		"*.min.css"
+		"*.min.css",
+		"node_modules/*",
+		"bin/*",
+		"obj/*",
+		"Content/External/*",
+		"packages/*"
 	],
+	"font_face": "Menlo-Regular",
 	"font_size": 12,
 	"git_binary":
 	{

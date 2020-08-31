@@ -1,6 +1,7 @@
 #!/bin/sh
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/luizsotero/.oh-my-zsh
+export FZF_BASE=/Users/luizsotero/.oh-my-zsh/plugins/fzf
 
 # User configuration --------------------------------------------------------------------------------------------------
 # Set name of the theme to load.
@@ -51,7 +52,7 @@ ENABLE_CORRECTION="true"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-autosuggestions)
+plugins=(git zsh-autosuggestions )
 
 source $ZSH/oh-my-zsh.sh
 
@@ -86,6 +87,7 @@ RPS1="%B${return_code}%b"
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias gits="git status"
+alias gts="git status"
 alias giuts="git status"
 alias guits="git status"
 alias guts="git status"
@@ -107,6 +109,12 @@ gut() {
 }
 gitco() {
   git fetch origin $1:$1 && git checkout $1
+}
+gitcompare() {
+    git log --pretty=oneline "$1"..."$2"
+}
+gitreleasenotes() {
+    git log --no-merges --pretty=format:"- %s" origin/master..."$1"
 }
 
 ij() {

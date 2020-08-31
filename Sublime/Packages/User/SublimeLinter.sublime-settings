@@ -30,7 +30,7 @@
         },
         "eslint":
         {
-            "disable": true,
+            "disable": false,
             "args":
             [
             ],
@@ -174,5 +174,5 @@
         "php": "html",
         "python django": "python",
         "pythonimproved": "python"
-    },
+    }
 }

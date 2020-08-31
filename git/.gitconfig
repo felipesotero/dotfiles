@@ -7,6 +7,7 @@
 	default = matching
 [core]
 	editor = subl -w
+	autocrlf = false
 [status]
 	submoduleSummary = false
 [alias]
