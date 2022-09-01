@@ -1,7 +1,7 @@
 #!/bin/sh
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/luizsotero/.oh-my-zsh
-export FZF_BASE=/Users/luizsotero/.oh-my-zsh/plugins/fzf
+export ZSH=/home/luizsotero/.oh-my-zsh
+export FZF_BASE=/home/luizsotero/.oh-my-zsh/plugins/fzf
 
 # User configuration --------------------------------------------------------------------------------------------------
 # Set name of the theme to load.
@@ -38,7 +38,7 @@ ENABLE_CORRECTION="true"
 # Uncomment the following line if you want to disable marking untracked files
 # under VCS as dirty. This makes repository status check for large repositories
 # much, much faster.
-# DISABLE_UNTRACKED_FILES_DIRTY="true"
+DISABLE_UNTRACKED_FILES_DIRTY="true"
 
 # Uncomment the following line if you want to change the command execution time
 # stamp shown in the history command output.
@@ -47,6 +47,15 @@ ENABLE_CORRECTION="true"
 
 # Would you like to use another custom folder than $ZSH/custom?
 # ZSH_CUSTOM=/path/to/new-custom-folder
+
+# WSL 2 workaround for git to be more performatic on mounted drives
+function git() {
+  if $(pwd -P | grep -q "^\/mnt\/*"); then
+    git.exe "$@"
+  else
+    command git "$@"
+  fi
+}
 
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
@@ -73,9 +82,22 @@ source $ZSH/oh-my-zsh.sh
 # export SSH_KEY_PATH="~/.ssh/dsa_id"
 
 # Add timestamp to the prompt
-PROMPT="╭─%{$fg[red]%}%D %* ${current_dir} ${rvm_ruby} ${git_branch}
+#PROMPT="╭─%{$fg[red]%}%D %* ${current_dir} ${git_branch}
+#╰─%B${user_symbol}%b "
+#RPS1="%B${return_code}%b"
+
+# Load version control information
+autoload -Uz vcs_info
+
+# Format the vcs_info_msg_0_ variable
+zstyle ':vcs_info:git:*' formats '<%b>'
+
+precmd() { vcs_info }
+
+# Set up the prompt (with git branch name)
+setopt PROMPT_SUBST
+PROMPT="╭─%{$fg[red]%}%D %* ${current_dir} $fg[yellow]%}${vcs_info_msg_0_}$fg[white]%}
 ╰─%B${user_symbol}%b "
-RPS1="%B${return_code}%b"
 
 # ALIASES -------------------------------------------------------------------------------------------------------------
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
@@ -156,29 +178,29 @@ wallpaper() {
 
 # EXPORTS -------------------------------------------------------------------------------------------------------------
 
-export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/heroku/bin:/usr/local/sbin:/Users/luizsotero/bin:/Users/luizsotero/.composer/vendor/bin:/Users/luizsotero/Library/Python/2.7/bin"
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/heroku/bin:/usr/local/sbin:/Users/luizsotero/bin:/Users/luizsotero/.composer/vendor/bin:/Users/luizsotero/Library/Python/2.7/bin:$HOME/.dotnet/tools"
+export PATH="$PATH:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32:/mnt/c/Program Files/Git/bin"
 # export MANPATH="/usr/local/man:$MANPATH"# Base16 Shell
 BASE16_SHELL="$HOME/.config/base16-shell/base16-monokai.dark.sh"
 [[ -s $BASE16_SHELL ]] && source $BASE16_SHELL
 
+export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+
 # set where virutal environments will live
 export WORKON_HOME=$HOME/.virtualenvs
 # ensure all new environments are isolated from the site-packages directory
-export VIRTUALENVWRAPPER_VIRTUALENV_ARGS='--no-site-packages'
+# export VIRTUALENVWRAPPER_VIRTUALENV_ARGS='--no-site-packages'
 # use the same directory for virtualenvs as virtualenvwrapper
 export PIP_VIRTUALENV_BASE=$WORKON_HOME
 # makes pip detect an active virtualenv and install to it
 export PIP_RESPECT_VIRTUALENV=true
-if [[ -r /Users/luizsotero/Library/Python/2.7/bin/virtualenvwrapper.sh ]]; then
-    source /Users/luizsotero/Library/Python/2.7/bin/virtualenvwrapper.sh
+if [[ -r /usr/local/bin/virtualenvwrapper.sh ]]; then
+    source /usr/local/bin/virtualenvwrapper.sh
 else
     echo "WARNING: Can't find virtualenvwrapper.sh"
 fi
 
 ulimit -n 2560
-export NVM_DIR="/Users/luizsotero/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 export PATH="$HOME/.yarn/bin:$PATH"
 
@@ -189,3 +211,8 @@ export PKG_CONFIG_PATH="/usr/local/opt/openssl/lib/pkgconfig"
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="/Users/luizsotero/.sdkman"
 [[ -s "/Users/luizsotero/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/luizsotero/.sdkman/bin/sdkman-init.sh"
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
